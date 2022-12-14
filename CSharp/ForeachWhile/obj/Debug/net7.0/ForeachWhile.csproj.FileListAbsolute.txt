@@ -1,0 +1,15 @@
+E:\APTECH_C#\c2109i1_CShape\CSharp\ForeachWhile\bin\Debug\net7.0\ForeachWhile.exe
+E:\APTECH_C#\c2109i1_CShape\CSharp\ForeachWhile\bin\Debug\net7.0\ForeachWhile.deps.json
+E:\APTECH_C#\c2109i1_CShape\CSharp\ForeachWhile\bin\Debug\net7.0\ForeachWhile.runtimeconfig.json
+E:\APTECH_C#\c2109i1_CShape\CSharp\ForeachWhile\bin\Debug\net7.0\ForeachWhile.dll
+E:\APTECH_C#\c2109i1_CShape\CSharp\ForeachWhile\bin\Debug\net7.0\ForeachWhile.pdb
+E:\APTECH_C#\c2109i1_CShape\CSharp\ForeachWhile\obj\Debug\net7.0\ForeachWhile.csproj.AssemblyReference.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\ForeachWhile\obj\Debug\net7.0\ForeachWhile.GeneratedMSBuildEditorConfig.editorconfig
+E:\APTECH_C#\c2109i1_CShape\CSharp\ForeachWhile\obj\Debug\net7.0\ForeachWhile.AssemblyInfoInputs.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\ForeachWhile\obj\Debug\net7.0\ForeachWhile.AssemblyInfo.cs
+E:\APTECH_C#\c2109i1_CShape\CSharp\ForeachWhile\obj\Debug\net7.0\ForeachWhile.csproj.CoreCompileInputs.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\ForeachWhile\obj\Debug\net7.0\ForeachWhile.dll
+E:\APTECH_C#\c2109i1_CShape\CSharp\ForeachWhile\obj\Debug\net7.0\refint\ForeachWhile.dll
+E:\APTECH_C#\c2109i1_CShape\CSharp\ForeachWhile\obj\Debug\net7.0\ForeachWhile.pdb
+E:\APTECH_C#\c2109i1_CShape\CSharp\ForeachWhile\obj\Debug\net7.0\ForeachWhile.genruntimeconfig.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\ForeachWhile\obj\Debug\net7.0\ref\ForeachWhile.dll

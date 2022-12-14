@@ -1,0 +1,15 @@
+E:\APTECH_C#\c2109i1_CShape\CSharp\Switch\bin\Debug\net7.0\Switch.exe
+E:\APTECH_C#\c2109i1_CShape\CSharp\Switch\bin\Debug\net7.0\Switch.deps.json
+E:\APTECH_C#\c2109i1_CShape\CSharp\Switch\bin\Debug\net7.0\Switch.runtimeconfig.json
+E:\APTECH_C#\c2109i1_CShape\CSharp\Switch\bin\Debug\net7.0\Switch.dll
+E:\APTECH_C#\c2109i1_CShape\CSharp\Switch\bin\Debug\net7.0\Switch.pdb
+E:\APTECH_C#\c2109i1_CShape\CSharp\Switch\obj\Debug\net7.0\Switch.csproj.AssemblyReference.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\Switch\obj\Debug\net7.0\Switch.GeneratedMSBuildEditorConfig.editorconfig
+E:\APTECH_C#\c2109i1_CShape\CSharp\Switch\obj\Debug\net7.0\Switch.AssemblyInfoInputs.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\Switch\obj\Debug\net7.0\Switch.AssemblyInfo.cs
+E:\APTECH_C#\c2109i1_CShape\CSharp\Switch\obj\Debug\net7.0\Switch.csproj.CoreCompileInputs.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\Switch\obj\Debug\net7.0\Switch.dll
+E:\APTECH_C#\c2109i1_CShape\CSharp\Switch\obj\Debug\net7.0\refint\Switch.dll
+E:\APTECH_C#\c2109i1_CShape\CSharp\Switch\obj\Debug\net7.0\Switch.pdb
+E:\APTECH_C#\c2109i1_CShape\CSharp\Switch\obj\Debug\net7.0\Switch.genruntimeconfig.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\Switch\obj\Debug\net7.0\ref\Switch.dll

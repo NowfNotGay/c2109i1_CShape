@@ -1,0 +1,15 @@
+E:\APTECH_C#\c2109i1_CShape\CSharp\RefOut\bin\Debug\net7.0\RefOut.exe
+E:\APTECH_C#\c2109i1_CShape\CSharp\RefOut\bin\Debug\net7.0\RefOut.deps.json
+E:\APTECH_C#\c2109i1_CShape\CSharp\RefOut\bin\Debug\net7.0\RefOut.runtimeconfig.json
+E:\APTECH_C#\c2109i1_CShape\CSharp\RefOut\bin\Debug\net7.0\RefOut.dll
+E:\APTECH_C#\c2109i1_CShape\CSharp\RefOut\bin\Debug\net7.0\RefOut.pdb
+E:\APTECH_C#\c2109i1_CShape\CSharp\RefOut\obj\Debug\net7.0\RefOut.csproj.AssemblyReference.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\RefOut\obj\Debug\net7.0\RefOut.GeneratedMSBuildEditorConfig.editorconfig
+E:\APTECH_C#\c2109i1_CShape\CSharp\RefOut\obj\Debug\net7.0\RefOut.AssemblyInfoInputs.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\RefOut\obj\Debug\net7.0\RefOut.AssemblyInfo.cs
+E:\APTECH_C#\c2109i1_CShape\CSharp\RefOut\obj\Debug\net7.0\RefOut.csproj.CoreCompileInputs.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\RefOut\obj\Debug\net7.0\RefOut.dll
+E:\APTECH_C#\c2109i1_CShape\CSharp\RefOut\obj\Debug\net7.0\refint\RefOut.dll
+E:\APTECH_C#\c2109i1_CShape\CSharp\RefOut\obj\Debug\net7.0\RefOut.pdb
+E:\APTECH_C#\c2109i1_CShape\CSharp\RefOut\obj\Debug\net7.0\RefOut.genruntimeconfig.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\RefOut\obj\Debug\net7.0\ref\RefOut.dll
