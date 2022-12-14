@@ -1,0 +1,15 @@
+E:\APTECH_C#\c2109i1_CShape\CSharp\QuestionMark\bin\Debug\net7.0\QuestionMark.exe
+E:\APTECH_C#\c2109i1_CShape\CSharp\QuestionMark\bin\Debug\net7.0\QuestionMark.deps.json
+E:\APTECH_C#\c2109i1_CShape\CSharp\QuestionMark\bin\Debug\net7.0\QuestionMark.runtimeconfig.json
+E:\APTECH_C#\c2109i1_CShape\CSharp\QuestionMark\bin\Debug\net7.0\QuestionMark.dll
+E:\APTECH_C#\c2109i1_CShape\CSharp\QuestionMark\bin\Debug\net7.0\QuestionMark.pdb
+E:\APTECH_C#\c2109i1_CShape\CSharp\QuestionMark\obj\Debug\net7.0\QuestionMark.csproj.AssemblyReference.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\QuestionMark\obj\Debug\net7.0\QuestionMark.GeneratedMSBuildEditorConfig.editorconfig
+E:\APTECH_C#\c2109i1_CShape\CSharp\QuestionMark\obj\Debug\net7.0\QuestionMark.AssemblyInfoInputs.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\QuestionMark\obj\Debug\net7.0\QuestionMark.AssemblyInfo.cs
+E:\APTECH_C#\c2109i1_CShape\CSharp\QuestionMark\obj\Debug\net7.0\QuestionMark.csproj.CoreCompileInputs.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\QuestionMark\obj\Debug\net7.0\QuestionMark.dll
+E:\APTECH_C#\c2109i1_CShape\CSharp\QuestionMark\obj\Debug\net7.0\refint\QuestionMark.dll
+E:\APTECH_C#\c2109i1_CShape\CSharp\QuestionMark\obj\Debug\net7.0\QuestionMark.pdb
+E:\APTECH_C#\c2109i1_CShape\CSharp\QuestionMark\obj\Debug\net7.0\QuestionMark.genruntimeconfig.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\QuestionMark\obj\Debug\net7.0\ref\QuestionMark.dll
