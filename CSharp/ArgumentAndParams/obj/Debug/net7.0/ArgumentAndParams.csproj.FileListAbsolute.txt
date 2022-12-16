@@ -1,0 +1,15 @@
+E:\APTECH_C#\c2109i1_CShape\CSharp\ArgumentAndParams\bin\Debug\net7.0\ArgumentAndParams.exe
+E:\APTECH_C#\c2109i1_CShape\CSharp\ArgumentAndParams\bin\Debug\net7.0\ArgumentAndParams.deps.json
+E:\APTECH_C#\c2109i1_CShape\CSharp\ArgumentAndParams\bin\Debug\net7.0\ArgumentAndParams.runtimeconfig.json
+E:\APTECH_C#\c2109i1_CShape\CSharp\ArgumentAndParams\bin\Debug\net7.0\ArgumentAndParams.dll
+E:\APTECH_C#\c2109i1_CShape\CSharp\ArgumentAndParams\bin\Debug\net7.0\ArgumentAndParams.pdb
+E:\APTECH_C#\c2109i1_CShape\CSharp\ArgumentAndParams\obj\Debug\net7.0\ArgumentAndParams.csproj.AssemblyReference.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\ArgumentAndParams\obj\Debug\net7.0\ArgumentAndParams.GeneratedMSBuildEditorConfig.editorconfig
+E:\APTECH_C#\c2109i1_CShape\CSharp\ArgumentAndParams\obj\Debug\net7.0\ArgumentAndParams.AssemblyInfoInputs.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\ArgumentAndParams\obj\Debug\net7.0\ArgumentAndParams.AssemblyInfo.cs
+E:\APTECH_C#\c2109i1_CShape\CSharp\ArgumentAndParams\obj\Debug\net7.0\ArgumentAndParams.csproj.CoreCompileInputs.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\ArgumentAndParams\obj\Debug\net7.0\ArgumentAndParams.dll
+E:\APTECH_C#\c2109i1_CShape\CSharp\ArgumentAndParams\obj\Debug\net7.0\refint\ArgumentAndParams.dll
+E:\APTECH_C#\c2109i1_CShape\CSharp\ArgumentAndParams\obj\Debug\net7.0\ArgumentAndParams.pdb
+E:\APTECH_C#\c2109i1_CShape\CSharp\ArgumentAndParams\obj\Debug\net7.0\ArgumentAndParams.genruntimeconfig.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\ArgumentAndParams\obj\Debug\net7.0\ref\ArgumentAndParams.dll
