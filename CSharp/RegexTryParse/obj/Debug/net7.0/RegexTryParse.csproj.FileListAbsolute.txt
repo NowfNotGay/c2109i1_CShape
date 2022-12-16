@@ -1,0 +1,15 @@
+E:\APTECH_C#\c2109i1_CShape\CSharp\RegexTryParse\bin\Debug\net7.0\RegexTryParse.exe
+E:\APTECH_C#\c2109i1_CShape\CSharp\RegexTryParse\bin\Debug\net7.0\RegexTryParse.deps.json
+E:\APTECH_C#\c2109i1_CShape\CSharp\RegexTryParse\bin\Debug\net7.0\RegexTryParse.runtimeconfig.json
+E:\APTECH_C#\c2109i1_CShape\CSharp\RegexTryParse\bin\Debug\net7.0\RegexTryParse.dll
+E:\APTECH_C#\c2109i1_CShape\CSharp\RegexTryParse\bin\Debug\net7.0\RegexTryParse.pdb
+E:\APTECH_C#\c2109i1_CShape\CSharp\RegexTryParse\obj\Debug\net7.0\RegexTryParse.csproj.AssemblyReference.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\RegexTryParse\obj\Debug\net7.0\RegexTryParse.GeneratedMSBuildEditorConfig.editorconfig
+E:\APTECH_C#\c2109i1_CShape\CSharp\RegexTryParse\obj\Debug\net7.0\RegexTryParse.AssemblyInfoInputs.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\RegexTryParse\obj\Debug\net7.0\RegexTryParse.AssemblyInfo.cs
+E:\APTECH_C#\c2109i1_CShape\CSharp\RegexTryParse\obj\Debug\net7.0\RegexTryParse.csproj.CoreCompileInputs.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\RegexTryParse\obj\Debug\net7.0\RegexTryParse.dll
+E:\APTECH_C#\c2109i1_CShape\CSharp\RegexTryParse\obj\Debug\net7.0\refint\RegexTryParse.dll
+E:\APTECH_C#\c2109i1_CShape\CSharp\RegexTryParse\obj\Debug\net7.0\RegexTryParse.pdb
+E:\APTECH_C#\c2109i1_CShape\CSharp\RegexTryParse\obj\Debug\net7.0\RegexTryParse.genruntimeconfig.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\RegexTryParse\obj\Debug\net7.0\ref\RegexTryParse.dll

@@ -1,0 +1,15 @@
+E:\APTECH_C#\c2109i1_CShape\Learning\VariableType\bin\Debug\net7.0\VariableType.exe
+E:\APTECH_C#\c2109i1_CShape\Learning\VariableType\bin\Debug\net7.0\VariableType.deps.json
+E:\APTECH_C#\c2109i1_CShape\Learning\VariableType\bin\Debug\net7.0\VariableType.runtimeconfig.json
+E:\APTECH_C#\c2109i1_CShape\Learning\VariableType\bin\Debug\net7.0\VariableType.dll
+E:\APTECH_C#\c2109i1_CShape\Learning\VariableType\bin\Debug\net7.0\VariableType.pdb
+E:\APTECH_C#\c2109i1_CShape\Learning\VariableType\obj\Debug\net7.0\VariableType.csproj.AssemblyReference.cache
+E:\APTECH_C#\c2109i1_CShape\Learning\VariableType\obj\Debug\net7.0\VariableType.GeneratedMSBuildEditorConfig.editorconfig
+E:\APTECH_C#\c2109i1_CShape\Learning\VariableType\obj\Debug\net7.0\VariableType.AssemblyInfoInputs.cache
+E:\APTECH_C#\c2109i1_CShape\Learning\VariableType\obj\Debug\net7.0\VariableType.AssemblyInfo.cs
+E:\APTECH_C#\c2109i1_CShape\Learning\VariableType\obj\Debug\net7.0\VariableType.csproj.CoreCompileInputs.cache
+E:\APTECH_C#\c2109i1_CShape\Learning\VariableType\obj\Debug\net7.0\VariableType.dll
+E:\APTECH_C#\c2109i1_CShape\Learning\VariableType\obj\Debug\net7.0\refint\VariableType.dll
+E:\APTECH_C#\c2109i1_CShape\Learning\VariableType\obj\Debug\net7.0\VariableType.pdb
+E:\APTECH_C#\c2109i1_CShape\Learning\VariableType\obj\Debug\net7.0\VariableType.genruntimeconfig.cache
+E:\APTECH_C#\c2109i1_CShape\Learning\VariableType\obj\Debug\net7.0\ref\VariableType.dll
