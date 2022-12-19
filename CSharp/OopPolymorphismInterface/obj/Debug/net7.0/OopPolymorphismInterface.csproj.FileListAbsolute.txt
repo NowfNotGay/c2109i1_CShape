@@ -1,0 +1,15 @@
+E:\APTECH_C#\c2109i1_CShape\CSharp\OopPolymorphismInterface\bin\Debug\net7.0\OopPolymorphismInterface.exe
+E:\APTECH_C#\c2109i1_CShape\CSharp\OopPolymorphismInterface\bin\Debug\net7.0\OopPolymorphismInterface.deps.json
+E:\APTECH_C#\c2109i1_CShape\CSharp\OopPolymorphismInterface\bin\Debug\net7.0\OopPolymorphismInterface.runtimeconfig.json
+E:\APTECH_C#\c2109i1_CShape\CSharp\OopPolymorphismInterface\bin\Debug\net7.0\OopPolymorphismInterface.dll
+E:\APTECH_C#\c2109i1_CShape\CSharp\OopPolymorphismInterface\bin\Debug\net7.0\OopPolymorphismInterface.pdb
+E:\APTECH_C#\c2109i1_CShape\CSharp\OopPolymorphismInterface\obj\Debug\net7.0\OopPolymorphismInterface.csproj.AssemblyReference.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\OopPolymorphismInterface\obj\Debug\net7.0\OopPolymorphismInterface.GeneratedMSBuildEditorConfig.editorconfig
+E:\APTECH_C#\c2109i1_CShape\CSharp\OopPolymorphismInterface\obj\Debug\net7.0\OopPolymorphismInterface.AssemblyInfoInputs.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\OopPolymorphismInterface\obj\Debug\net7.0\OopPolymorphismInterface.AssemblyInfo.cs
+E:\APTECH_C#\c2109i1_CShape\CSharp\OopPolymorphismInterface\obj\Debug\net7.0\OopPolymorphismInterface.csproj.CoreCompileInputs.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\OopPolymorphismInterface\obj\Debug\net7.0\OopPolymorphismInterface.dll
+E:\APTECH_C#\c2109i1_CShape\CSharp\OopPolymorphismInterface\obj\Debug\net7.0\refint\OopPolymorphismInterface.dll
+E:\APTECH_C#\c2109i1_CShape\CSharp\OopPolymorphismInterface\obj\Debug\net7.0\OopPolymorphismInterface.pdb
+E:\APTECH_C#\c2109i1_CShape\CSharp\OopPolymorphismInterface\obj\Debug\net7.0\OopPolymorphismInterface.genruntimeconfig.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\OopPolymorphismInterface\obj\Debug\net7.0\ref\OopPolymorphismInterface.dll
