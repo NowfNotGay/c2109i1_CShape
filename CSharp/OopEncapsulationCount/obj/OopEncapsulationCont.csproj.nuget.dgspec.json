@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\APTECH_C#\\c2109i1_CShape\\CSharp\\OopEncapsulationCount\\OopEncapsulationCont.csproj": {}
+  },
+  "projects": {
+    "E:\\APTECH_C#\\c2109i1_CShape\\CSharp\\OopEncapsulationCount\\OopEncapsulationCont.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\APTECH_C#\\c2109i1_CShape\\CSharp\\OopEncapsulationCount\\OopEncapsulationCont.csproj",
+        "projectName": "OopEncapsulationCont",
+        "projectPath": "E:\\APTECH_C#\\c2109i1_CShape\\CSharp\\OopEncapsulationCount\\OopEncapsulationCont.csproj",
+        "packagesPath": "C:\\Users\\Nghia\\.nuget\\packages\\",
+        "outputPath": "E:\\APTECH_C#\\c2109i1_CShape\\CSharp\\OopEncapsulationCount\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nghia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\APTECH_C#\\c2109i1_CShape\\CSharp\\OopRncapsulation\\OopRncapsulation.csproj": {
+                "projectPath": "E:\\APTECH_C#\\c2109i1_CShape\\CSharp\\OopRncapsulation\\OopRncapsulation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\APTECH_C#\\c2109i1_CShape\\CSharp\\OopRncapsulation\\OopRncapsulation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\APTECH_C#\\c2109i1_CShape\\CSharp\\OopRncapsulation\\OopRncapsulation.csproj",
+        "projectName": "OopRncapsulation",
+        "projectPath": "E:\\APTECH_C#\\c2109i1_CShape\\CSharp\\OopRncapsulation\\OopRncapsulation.csproj",
+        "packagesPath": "C:\\Users\\Nghia\\.nuget\\packages\\",
+        "outputPath": "E:\\APTECH_C#\\c2109i1_CShape\\CSharp\\OopRncapsulation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nghia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
