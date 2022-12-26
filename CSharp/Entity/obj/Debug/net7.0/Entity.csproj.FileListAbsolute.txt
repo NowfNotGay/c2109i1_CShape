@@ -1,0 +1,12 @@
+E:\APTECH_C#\c2109i1_CShape\CSharp\Entity\bin\Debug\net7.0\Entity.deps.json
+E:\APTECH_C#\c2109i1_CShape\CSharp\Entity\bin\Debug\net7.0\Entity.dll
+E:\APTECH_C#\c2109i1_CShape\CSharp\Entity\bin\Debug\net7.0\Entity.pdb
+E:\APTECH_C#\c2109i1_CShape\CSharp\Entity\obj\Debug\net7.0\Entity.csproj.AssemblyReference.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\Entity\obj\Debug\net7.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+E:\APTECH_C#\c2109i1_CShape\CSharp\Entity\obj\Debug\net7.0\Entity.AssemblyInfoInputs.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\Entity\obj\Debug\net7.0\Entity.AssemblyInfo.cs
+E:\APTECH_C#\c2109i1_CShape\CSharp\Entity\obj\Debug\net7.0\Entity.csproj.CoreCompileInputs.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\Entity\obj\Debug\net7.0\Entity.dll
+E:\APTECH_C#\c2109i1_CShape\CSharp\Entity\obj\Debug\net7.0\refint\Entity.dll
+E:\APTECH_C#\c2109i1_CShape\CSharp\Entity\obj\Debug\net7.0\Entity.pdb
+E:\APTECH_C#\c2109i1_CShape\CSharp\Entity\obj\Debug\net7.0\ref\Entity.dll

@@ -1,0 +1,15 @@
+E:\APTECH_C#\c2109i1_CShape\CSharp\ListAndLINQ\bin\Debug\net7.0\ListAndLINQ.exe
+E:\APTECH_C#\c2109i1_CShape\CSharp\ListAndLINQ\bin\Debug\net7.0\ListAndLINQ.deps.json
+E:\APTECH_C#\c2109i1_CShape\CSharp\ListAndLINQ\bin\Debug\net7.0\ListAndLINQ.runtimeconfig.json
+E:\APTECH_C#\c2109i1_CShape\CSharp\ListAndLINQ\bin\Debug\net7.0\ListAndLINQ.dll
+E:\APTECH_C#\c2109i1_CShape\CSharp\ListAndLINQ\bin\Debug\net7.0\ListAndLINQ.pdb
+E:\APTECH_C#\c2109i1_CShape\CSharp\ListAndLINQ\obj\Debug\net7.0\ListAndLINQ.csproj.AssemblyReference.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\ListAndLINQ\obj\Debug\net7.0\ListAndLINQ.GeneratedMSBuildEditorConfig.editorconfig
+E:\APTECH_C#\c2109i1_CShape\CSharp\ListAndLINQ\obj\Debug\net7.0\ListAndLINQ.AssemblyInfoInputs.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\ListAndLINQ\obj\Debug\net7.0\ListAndLINQ.AssemblyInfo.cs
+E:\APTECH_C#\c2109i1_CShape\CSharp\ListAndLINQ\obj\Debug\net7.0\ListAndLINQ.csproj.CoreCompileInputs.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\ListAndLINQ\obj\Debug\net7.0\ListAndLINQ.dll
+E:\APTECH_C#\c2109i1_CShape\CSharp\ListAndLINQ\obj\Debug\net7.0\refint\ListAndLINQ.dll
+E:\APTECH_C#\c2109i1_CShape\CSharp\ListAndLINQ\obj\Debug\net7.0\ListAndLINQ.pdb
+E:\APTECH_C#\c2109i1_CShape\CSharp\ListAndLINQ\obj\Debug\net7.0\ListAndLINQ.genruntimeconfig.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\ListAndLINQ\obj\Debug\net7.0\ref\ListAndLINQ.dll

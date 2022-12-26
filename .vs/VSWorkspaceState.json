@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\CSharp"
+    "\\CSharp",
+    "\\CSharp\\OopEncapsulationProperty"
   ],
-  "SelectedNode": "\\Learning",
+  "SelectedNode": "\\CSharp\\CSharp.sln",
   "PreviewInSolutionExplorer": false
 }

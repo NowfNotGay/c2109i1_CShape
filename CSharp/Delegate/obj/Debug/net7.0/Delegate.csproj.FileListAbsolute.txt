@@ -1,0 +1,15 @@
+E:\APTECH_C#\c2109i1_CShape\CSharp\Delegate\bin\Debug\net7.0\Delegate.exe
+E:\APTECH_C#\c2109i1_CShape\CSharp\Delegate\bin\Debug\net7.0\Delegate.deps.json
+E:\APTECH_C#\c2109i1_CShape\CSharp\Delegate\bin\Debug\net7.0\Delegate.runtimeconfig.json
+E:\APTECH_C#\c2109i1_CShape\CSharp\Delegate\bin\Debug\net7.0\Delegate.dll
+E:\APTECH_C#\c2109i1_CShape\CSharp\Delegate\bin\Debug\net7.0\Delegate.pdb
+E:\APTECH_C#\c2109i1_CShape\CSharp\Delegate\obj\Debug\net7.0\Delegate.csproj.AssemblyReference.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\Delegate\obj\Debug\net7.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+E:\APTECH_C#\c2109i1_CShape\CSharp\Delegate\obj\Debug\net7.0\Delegate.AssemblyInfoInputs.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\Delegate\obj\Debug\net7.0\Delegate.AssemblyInfo.cs
+E:\APTECH_C#\c2109i1_CShape\CSharp\Delegate\obj\Debug\net7.0\Delegate.csproj.CoreCompileInputs.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\Delegate\obj\Debug\net7.0\Delegate.dll
+E:\APTECH_C#\c2109i1_CShape\CSharp\Delegate\obj\Debug\net7.0\refint\Delegate.dll
+E:\APTECH_C#\c2109i1_CShape\CSharp\Delegate\obj\Debug\net7.0\Delegate.pdb
+E:\APTECH_C#\c2109i1_CShape\CSharp\Delegate\obj\Debug\net7.0\Delegate.genruntimeconfig.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\Delegate\obj\Debug\net7.0\ref\Delegate.dll

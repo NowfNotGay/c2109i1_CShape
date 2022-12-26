@@ -1,0 +1,15 @@
+E:\APTECH_C#\c2109i1_CShape\CSharp\ExtensionnMethod\bin\Debug\net7.0\ExtensionnMethod.exe
+E:\APTECH_C#\c2109i1_CShape\CSharp\ExtensionnMethod\bin\Debug\net7.0\ExtensionnMethod.deps.json
+E:\APTECH_C#\c2109i1_CShape\CSharp\ExtensionnMethod\bin\Debug\net7.0\ExtensionnMethod.runtimeconfig.json
+E:\APTECH_C#\c2109i1_CShape\CSharp\ExtensionnMethod\bin\Debug\net7.0\ExtensionnMethod.dll
+E:\APTECH_C#\c2109i1_CShape\CSharp\ExtensionnMethod\bin\Debug\net7.0\ExtensionnMethod.pdb
+E:\APTECH_C#\c2109i1_CShape\CSharp\ExtensionnMethod\obj\Debug\net7.0\ExtensionnMethod.csproj.AssemblyReference.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\ExtensionnMethod\obj\Debug\net7.0\ExtensionnMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\APTECH_C#\c2109i1_CShape\CSharp\ExtensionnMethod\obj\Debug\net7.0\ExtensionnMethod.AssemblyInfoInputs.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\ExtensionnMethod\obj\Debug\net7.0\ExtensionnMethod.AssemblyInfo.cs
+E:\APTECH_C#\c2109i1_CShape\CSharp\ExtensionnMethod\obj\Debug\net7.0\ExtensionnMethod.csproj.CoreCompileInputs.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\ExtensionnMethod\obj\Debug\net7.0\ExtensionnMethod.dll
+E:\APTECH_C#\c2109i1_CShape\CSharp\ExtensionnMethod\obj\Debug\net7.0\refint\ExtensionnMethod.dll
+E:\APTECH_C#\c2109i1_CShape\CSharp\ExtensionnMethod\obj\Debug\net7.0\ExtensionnMethod.pdb
+E:\APTECH_C#\c2109i1_CShape\CSharp\ExtensionnMethod\obj\Debug\net7.0\ExtensionnMethod.genruntimeconfig.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\ExtensionnMethod\obj\Debug\net7.0\ref\ExtensionnMethod.dll
