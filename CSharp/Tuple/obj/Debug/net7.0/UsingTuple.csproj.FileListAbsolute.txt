@@ -1,0 +1,15 @@
+E:\APTECH_C#\c2109i1_CShape\CSharp\Tuple\bin\Debug\net7.0\UsingTuple.exe
+E:\APTECH_C#\c2109i1_CShape\CSharp\Tuple\bin\Debug\net7.0\UsingTuple.deps.json
+E:\APTECH_C#\c2109i1_CShape\CSharp\Tuple\bin\Debug\net7.0\UsingTuple.runtimeconfig.json
+E:\APTECH_C#\c2109i1_CShape\CSharp\Tuple\bin\Debug\net7.0\UsingTuple.dll
+E:\APTECH_C#\c2109i1_CShape\CSharp\Tuple\bin\Debug\net7.0\UsingTuple.pdb
+E:\APTECH_C#\c2109i1_CShape\CSharp\Tuple\obj\Debug\net7.0\UsingTuple.csproj.AssemblyReference.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\Tuple\obj\Debug\net7.0\UsingTuple.GeneratedMSBuildEditorConfig.editorconfig
+E:\APTECH_C#\c2109i1_CShape\CSharp\Tuple\obj\Debug\net7.0\UsingTuple.AssemblyInfoInputs.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\Tuple\obj\Debug\net7.0\UsingTuple.AssemblyInfo.cs
+E:\APTECH_C#\c2109i1_CShape\CSharp\Tuple\obj\Debug\net7.0\UsingTuple.csproj.CoreCompileInputs.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\Tuple\obj\Debug\net7.0\UsingTuple.dll
+E:\APTECH_C#\c2109i1_CShape\CSharp\Tuple\obj\Debug\net7.0\refint\UsingTuple.dll
+E:\APTECH_C#\c2109i1_CShape\CSharp\Tuple\obj\Debug\net7.0\UsingTuple.pdb
+E:\APTECH_C#\c2109i1_CShape\CSharp\Tuple\obj\Debug\net7.0\UsingTuple.genruntimeconfig.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\Tuple\obj\Debug\net7.0\ref\UsingTuple.dll

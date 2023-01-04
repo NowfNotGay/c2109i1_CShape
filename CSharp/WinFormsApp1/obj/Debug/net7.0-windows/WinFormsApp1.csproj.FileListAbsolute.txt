@@ -1,0 +1,17 @@
+E:\APTECH_C#\c2109i1_CShape\CSharp\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.exe
+E:\APTECH_C#\c2109i1_CShape\CSharp\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.deps.json
+E:\APTECH_C#\c2109i1_CShape\CSharp\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.runtimeconfig.json
+E:\APTECH_C#\c2109i1_CShape\CSharp\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.dll
+E:\APTECH_C#\c2109i1_CShape\CSharp\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.pdb
+E:\APTECH_C#\c2109i1_CShape\CSharp\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.Form1.resources
+E:\APTECH_C#\c2109i1_CShape\CSharp\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\APTECH_C#\c2109i1_CShape\CSharp\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\APTECH_C#\c2109i1_CShape\CSharp\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.dll
+E:\APTECH_C#\c2109i1_CShape\CSharp\WinFormsApp1\obj\Debug\net7.0-windows\refint\WinFormsApp1.dll
+E:\APTECH_C#\c2109i1_CShape\CSharp\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.pdb
+E:\APTECH_C#\c2109i1_CShape\CSharp\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\WinFormsApp1\obj\Debug\net7.0-windows\ref\WinFormsApp1.dll

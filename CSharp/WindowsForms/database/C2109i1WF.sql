@@ -1,0 +1,40 @@
+﻿USE master
+GO
+
+DROP DATABASE IF EXISTS C2109i1WF
+CREATE DATABASE C2109i1WF
+GO
+
+USE C2109i1WF
+GO
+
+DROP TABLE  IF EXISTS Student
+CREATE TABLE Student(
+	Id INT PRIMARY KEY IDENTITY,
+	FirstName NVARCHAR (50),
+	LastName NVARCHAR(50),
+	Gender BIT,
+	Dob DATE
+)
+GO
+
+INSERT INTO Student(FirstName,LastName,Gender,Dob) 
+	VALUES ( N'Nghĩa',N'Hồ',1,'2003/04/27')
+GO
+
+CREATE PROC GetAllStudent
+AS
+BEGIN
+	SELECT * FROM Student
+END
+GO
+
+CREATE PROC UPDATESTUDENT
+@FirstName NVARCHAR (50),@LastName NVARCHAR(50),@Gender BIT,@Dob DATE,@Id INT
+AS
+BEGIN
+	UPDATE Student
+	SET FirstName = @FirstName ,LastName = @LastName, Gender = @Gender, Dob = @Dob
+	WHERE Id = @Id
+END
+GO

@@ -1,0 +1,15 @@
+E:\APTECH_C#\c2109i1_CShape\CSharp\FuncAndAction\bin\Debug\net7.0\FuncAndAction.exe
+E:\APTECH_C#\c2109i1_CShape\CSharp\FuncAndAction\bin\Debug\net7.0\FuncAndAction.deps.json
+E:\APTECH_C#\c2109i1_CShape\CSharp\FuncAndAction\bin\Debug\net7.0\FuncAndAction.runtimeconfig.json
+E:\APTECH_C#\c2109i1_CShape\CSharp\FuncAndAction\bin\Debug\net7.0\FuncAndAction.dll
+E:\APTECH_C#\c2109i1_CShape\CSharp\FuncAndAction\bin\Debug\net7.0\FuncAndAction.pdb
+E:\APTECH_C#\c2109i1_CShape\CSharp\FuncAndAction\obj\Debug\net7.0\FuncAndAction.csproj.AssemblyReference.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\FuncAndAction\obj\Debug\net7.0\FuncAndAction.GeneratedMSBuildEditorConfig.editorconfig
+E:\APTECH_C#\c2109i1_CShape\CSharp\FuncAndAction\obj\Debug\net7.0\FuncAndAction.AssemblyInfoInputs.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\FuncAndAction\obj\Debug\net7.0\FuncAndAction.AssemblyInfo.cs
+E:\APTECH_C#\c2109i1_CShape\CSharp\FuncAndAction\obj\Debug\net7.0\FuncAndAction.csproj.CoreCompileInputs.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\FuncAndAction\obj\Debug\net7.0\FuncAndAction.dll
+E:\APTECH_C#\c2109i1_CShape\CSharp\FuncAndAction\obj\Debug\net7.0\refint\FuncAndAction.dll
+E:\APTECH_C#\c2109i1_CShape\CSharp\FuncAndAction\obj\Debug\net7.0\FuncAndAction.pdb
+E:\APTECH_C#\c2109i1_CShape\CSharp\FuncAndAction\obj\Debug\net7.0\FuncAndAction.genruntimeconfig.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\FuncAndAction\obj\Debug\net7.0\ref\FuncAndAction.dll

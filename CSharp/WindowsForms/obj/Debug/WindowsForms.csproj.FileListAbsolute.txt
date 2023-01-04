@@ -1,0 +1,11 @@
+E:\APTECH_C#\c2109i1_CShape\CSharp\WindowsForms\bin\Debug\WindowsForms.exe.config
+E:\APTECH_C#\c2109i1_CShape\CSharp\WindowsForms\bin\Debug\WindowsForms.exe
+E:\APTECH_C#\c2109i1_CShape\CSharp\WindowsForms\bin\Debug\WindowsForms.pdb
+E:\APTECH_C#\c2109i1_CShape\CSharp\WindowsForms\obj\Debug\WindowsForms.csproj.AssemblyReference.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\WindowsForms\obj\Debug\WindowsForms.csproj.SuggestedBindingRedirects.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+E:\APTECH_C#\c2109i1_CShape\CSharp\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+E:\APTECH_C#\c2109i1_CShape\CSharp\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+E:\APTECH_C#\c2109i1_CShape\CSharp\WindowsForms\obj\Debug\WindowsForms.exe
+E:\APTECH_C#\c2109i1_CShape\CSharp\WindowsForms\obj\Debug\WindowsForms.pdb
